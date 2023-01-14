@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**setstime/setstime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# setstime
+## Roblox
+I am a professional roblox developer. I also play Bee Swarm in my spare time.
+## PHP
+I can rewrite websites, and a whole different shenagians.
+## Revivals
+I've created stuff like Roblox. For example, Anime-Hill.
+# My Projects
+[Encryption+ Anti-Malware Module Github Page](https://github.com/setstime/encryption)
+Click on build passing to get sent to the Roblox Model. (Goes for all of my projects!)
